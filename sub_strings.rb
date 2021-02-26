@@ -1,5 +1,5 @@
 def sub_strings(text, dictionary)
-
+    puts "Arthur Hassan Souki"
 end
 
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
